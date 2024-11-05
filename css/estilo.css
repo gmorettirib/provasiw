@@ -1,0 +1,33 @@
+
+
+.carrosel{
+    margin-bottom: 10%;
+}
+
+section{
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.progress{
+    margin-bottom: 5%;
+    
+}
+
+footer {
+    background-color: burlywood;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    margin-top: 4%;
+} 
+.col{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imggaleria{
+    width: 80%;
+}
